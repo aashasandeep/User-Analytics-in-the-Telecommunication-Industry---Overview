@@ -1,3 +1,14 @@
+![Handsets for Huawei](https://github.com/user-attachments/assets/ce0de30b-37c8-44bb-8fa7-a49527458d22)
+![Top 3 most used Applications task-2](https://github.com/user-attachments/assets/77db07be-dfaa-4185-a234-b9be7e7e875c)
+![Top 5 Handsets for Apple-4](https://github.com/user-attachments/assets/a2e562d4-3cdb-4c11-bd0b-f8caaac3f0cc)
+![Top 5 Handsets for samsung-5](https://github.com/user-attachments/assets/aa4943cf-bd9d-4b72-afda-c3bf2f63f759)
+![Top 10 handset -1](https://github.com/user-attachments/assets/4bf67223-6e22-45bd-966b-80b7fb48e0e5)
+![Screenshot 2024-09-10 000312 Boxplot of Telcom_data](https://github.com/user-attachments/assets/d5aa69ce-1857-408d-8469-52c0344b2dca)
+![Top 3 Handset Manufacturers](https://github.com/user-attachments/assets/17bf82a8-2e39-4443-b98b-aa2e2ec91e15)
+![TOP 3 Handset manufacturer-2](https://github.com/user-attachments/assets/68b5b891-706a-448e-9746-190d1c58238a)
+![Top 3 Handset manufacturer](https://github.com/user-attachments/assets/8193e0aa-9c7a-4b82-a7b5-a7a7f7e35cff)
+![Screenshot 2024-09-10 000115 project-5 Telcom_data](https://github.com/user-attachments/assets/5114a82a-e0f4-4400-b5dc-eaebaabbb722)
+![Heatmap of task -1](https://github.com/user-attachments/assets/1ccf640c-c3c5-4595-baab-5bc2b9ab6478)
 # User-Analytics-in-the-Telecommunication-Industry---Overview
 User Analytics in the Telecommunication Industry - Overview
 Telecommunication User Analytics
